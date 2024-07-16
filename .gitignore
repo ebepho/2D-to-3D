@@ -1,0 +1,8 @@
+# exclude everything
+data/*
+
+# exception to the rule
+!somefolder/.gitkeep 
+
+# ignore this file - comes from my mac :/
+.DS_Store
